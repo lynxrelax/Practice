@@ -1,0 +1,56 @@
+.intro {
+  background-color: cadetblue;
+  color: white;
+  padding: 2px;
+  /* margin: 20px; */
+}
+
+.box {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+  list-style-type: square;
+}
+
+ul li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  background-color: aquamarine;
+  color: blue;
+  display: block;
+  padding: 10px 10px;
+  margin: 10px;
+}
+
+.back-img {
+  color: aliceblue;
+  min-height: 100vh;
+  font-size: 60px;
+
+  text-transform: capitalize;
+  display: flex;
+  background: url("./images/sunset.jpg") no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+  box-sizing: border-box;
+}
+
+.back-img2 {
+  color: aliceblue;
+  min-height: 100vh;
+  font-size: 60px;
+  text-transform: capitalize;
+  display: flex;
+  background: url("./images/building.jpg") no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+}

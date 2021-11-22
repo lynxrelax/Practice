@@ -1,0 +1,24 @@
+/* * {
+  background-color: antiquewhite;
+} */
+
+.banner {
+  background-color: brown;
+}
+
+/* @media screen and (min-width: 576px) {
+  body {
+    background-color: red;
+  }
+  .banner {
+    background-color: yellow;
+  }
+  h1 {
+    color: black;
+    font-size: 60px;
+  }
+} */
+
+p:hover {
+  color: aqua;
+}
