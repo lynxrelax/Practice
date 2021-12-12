@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: goldenrod;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-transform: uppercase;
+}
